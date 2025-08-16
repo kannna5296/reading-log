@@ -1,5 +1,5 @@
 ---
 layout: home
-title: "hirosuban logs"
+title: "top"
 ---
 ここでは技術、ドメイン知識関連での学びの記録をまとめています。
